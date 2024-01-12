@@ -110,6 +110,7 @@ margin-left: 68%;
        font-size: 28px;
        color: #5c5c5c;
        line-height: 30px;
+       margin-top: 10%;
   
   }
 
@@ -131,12 +132,7 @@ margin-left: 68%;
     
   }
   
-  .linea2{
-    color:#212121;
-    width: 70%;
-   margin-left: 15%;
-   margin-top: 8%;
-  }
+  
   
   .parrafo3{
     text-align: center;
@@ -172,8 +168,18 @@ margin-left: 68%;
        color: #6a6969;  
        margin-top: -10%;
   }
-
-
+.linea2{
+  color: #CC787E;
+  width: 70%;
+ margin-left: 15%;
+ margin-top: 20%;
+}
+.linea3{
+  color: #CC787E;
+  width: 70%;
+ margin-left: 15%;
+ margin-top: 20%;
+}
   .boton3{
     padding: 4px 9px;
     font-size: 18px;

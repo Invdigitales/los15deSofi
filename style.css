@@ -116,19 +116,19 @@ margin-left: 68%;
 
   .css-button-arrow--sand {
     padding: 2px 9px;
-    font-size: 18px;
-    font-weight: 1200;
+    font-size: 19px;
+    font-weight: bold;
     border: none;
-    color: rgb(77, 77, 77);
-    background-color: #e8e8e89d;
+    color: #CC787E;
+    background-color: #f9f6f69d;
     border-radius: 7px;
-    box-shadow: 2px 2px 30px -5px #CC787E;
+    box-shadow: 2px 2px 30px -5px #96D8CB;
     cursor: pointer;
     margin-top: 8%;
     background-size: 50%;
     font-family: 'Julius Sans One', sans-serif;
     background-image: url(./imagenes/493384_355fc.gif);
-    background-size: 80%;
+    background-size: 50%;
     
   }
   
@@ -179,6 +179,34 @@ margin-left: 68%;
   width: 70%;
  margin-left: 15%;
  margin-top: 20%;
+}
+.linea4{
+  color: #CC787E;
+  width: 70%;
+ margin-left: 15%;
+ margin-top: 20%;
+}
+
+.parrafo5{
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+     font-size: 35px;
+     color: #CC787E;
+     margin-top: 5%;
+}
+.regalos{
+  width: 17%;
+ margin-left:42%;
+ margin-top: -5%;
+}
+
+.parrafo6{
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+     font-size: 28px;
+     color: #5c5c5c;
+     line-height: 30px;
+     margin-top: 10%;
 }
   .boton3{
     padding: 4px 9px;
